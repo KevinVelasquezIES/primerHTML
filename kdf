@@ -1,0 +1,17 @@
+[33mcommit e79b6e1808289bef6b6472cbd12b8c4e383c601f[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/feature/primerHtml[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: KevinVelasquezIES <kevin.velasquez.ies@gmail.com>
+Date:   Mon Sep 25 11:34:50 2023 -0500
+
+    feat: se agrega un nuevo parrafo lorem.
+
+[33mcommit 26eea22808e8b28992214ec48edb91f7595543f6[m
+Author: KevinVelasquezIES <kevin.velasquez.ies@gmail.com>
+Date:   Mon Sep 25 11:32:15 2023 -0500
+
+    feat: html primer commit con git flow
+
+[33mcommit 6c22f0421e023f3ac567f2bb91a627a61dd5f0c6[m[33m ([m[1;32mmaster[m[33m)[m
+Author: KevinVelasquezIES <kevin.velasquez.ies@gmail.com>
+Date:   Mon Sep 25 11:26:56 2023 -0500
+
+    Version 0.0.1
